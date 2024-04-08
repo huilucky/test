@@ -1,0 +1,31 @@
+{
+  "hash": "cc3504b2",
+  "configHash": "e37c66a8",
+  "lockfileHash": "859de265",
+  "browserHash": "ae16b71c",
+  "optimized": {
+    "vue": {
+      "src": "../../../node_modules/.pnpm/registry.npmmirror.com+vue@3.4.21/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "ba304ce8",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../node_modules/.pnpm/registry.npmmirror.com+@vue+devtools-api@7.0.25_vue@3.4.21/node_modules/@vue/devtools-api/dist/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "b4c08c2b",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/core": {
+      "src": "../../../node_modules/.pnpm/registry.npmmirror.com+@vueuse+core@10.9.0_vue@3.4.21/node_modules/@vueuse/core/index.mjs",
+      "file": "vitepress___@vueuse_core.js",
+      "fileHash": "aaa1c7a0",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-BVKS3QLL": {
+      "file": "chunk-BVKS3QLL.js"
+    }
+  }
+}
